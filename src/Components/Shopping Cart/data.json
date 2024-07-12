@@ -1,0 +1,12 @@
+[
+    {"id":"123","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOhm4JSblkCkgV0GmL-y8cE1-RvxRqVt2DA&s","item":"Fancy Product","isRange":true,"isStrikedout":false,"isStar":false,"price":[40,80],"button":"View Options","isSale":false},
+    {"id":"124","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOhm4JSblkCkgV0GmL-y8cE1-RvxRqVt2DA&s","item":"Special Item","isRange":false,"isStrikedout":true,"isStar":true,"price":[20,18],"button":"Add to Cart","isSale":true},
+    {"id":"125","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOhm4JSblkCkgV0GmL-y8cE1-RvxRqVt2DA&s","item":"Sale Item","isRange":false,"isStrikedout":true,"isStar":false,"price":[50,25],"button":"Add to Cart","isSale":true},
+    {"id":"126","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOhm4JSblkCkgV0GmL-y8cE1-RvxRqVt2DA&s","item":"Popular Item","isRange":false,"isStrikedout":false,"isStar":true,"price":[40],"button":"Add to Cart","isSale":false},
+    {"id":"127","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOhm4JSblkCkgV0GmL-y8cE1-RvxRqVt2DA&s","item":"Fancy Product","isRange":true,"isStrikedout":false,"isStar":false,"price":[40,80],"button":"View Options","isSale":false},
+    {"id":"128","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOhm4JSblkCkgV0GmL-y8cE1-RvxRqVt2DA&s","item":"Special Item","isRange":false,"isStrikedout":true,"isStar":true,"price":[20,18],"button":"Add to Cart","isSale":true},
+    {"id":"129","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOhm4JSblkCkgV0GmL-y8cE1-RvxRqVt2DA&s","item":"Sale Item","isRange":false,"isStrikedout":true,"isStar":false,"price":[50,25],"button":"Add to Cart","isSale":true},
+    {"id":"122","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOhm4JSblkCkgV0GmL-y8cE1-RvxRqVt2DA&s","item":"Popular Item","isRange":false,"isStrikedout":false,"isStar":true,"price":[40],"button":"Add to Cart","isSale":false}
+    
+
+]
